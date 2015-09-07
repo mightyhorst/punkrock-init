@@ -1,0 +1,20 @@
+project:
+	name: 'New project'
+	authour: 'mitni455'
+	devices:
+		web:
+			pages:
+				home
+				about
+				contact
+		ionic
+		ios
+		android
+	api:
+		users:
+			id: increments
+			email: email
+			password: password
+			name: string
+			about_me: text
+
